@@ -40,7 +40,7 @@ int main()
   
   	// output results
   	cout << "Result of insert sort of a and b is: ";
- 		for(vector<int>::iterator it = result.begin(); it != result.end(); ++it)
+ 	for(vector<int>::iterator it = result.begin(); it != result.end(); ++it)
     {
       cout << *it << " ";
     }
